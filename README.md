@@ -6,6 +6,11 @@
   git clone git@github.com:AbraoDaniel/travel-planner.git
 ```
 
+### 🖥️ Install the dependencies: 
+```sh
+  npm install
+```
+
 ### ✔️ Run: 
 
 ```sh
